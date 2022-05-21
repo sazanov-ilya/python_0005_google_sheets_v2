@@ -1,0 +1,12 @@
+# вложеные каталоги
+.idea/
+__pycache__
+venv/
+
+# файлы
+git.txt
+
+# приватные ключи
+settings.py
+credentials.json
+.env
